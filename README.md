@@ -83,9 +83,9 @@ The table below catalogs leading commercial cloud phone and business PBX service
 
 Open-source telephony grants system administrators, telecommunication engineers, and developers complete control over call routing, security, media processing, and privacy without recurring per-seat subscription fees.
 
-The table below is sorted in descending order by **GitHub Star Count**:
+The table below is sorted in descending order by **GitHub Stars_Count**:
 
-| Project | GitHub Stars | Description |
+| Project | GitHub_Stars | Description |
 |:---|:---|:---|
 | **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** | [![Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) | Fully encrypted, 100% open-source video conferencing and voice solution used as a standalone telephony/meeting server or embedded via WebRTC. |
 | **[LiveKit](https://github.com/livekit/livekit)** | [![Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers) | End-to-end WebRTC stack and real-time audio/video infrastructure designed for scalable real-time voice, telephony egress/ingress, and AI voice agents. |
@@ -132,7 +132,7 @@ Contributions are warmly encouraged! Help keep this telephony resource accurate,
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-pbx-project`).
-3. 📝 **Add or Update Entries**: Ensure descriptions are factual, pricing is verified, and GitHub star badges follow the standard format:
+3. 📝 **Add or Update Entries**: Ensure descriptions are factual, pricing is verified, and GitHub Stars_Badges follow the standard format:
    ```markdown
    [![Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)
    ```
