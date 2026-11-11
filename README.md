@@ -1,6 +1,6 @@
 # Awesome-Cloud-Business-Phone-Telephony-PBX
 
-# Top Cloud Business Phone & Telephony (PBX) Ecosystem
+## Top Cloud Business Phone & Telephony (PBX) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Cloud PBX, Unified Communications & Programmable Voice Infrastructure*  
